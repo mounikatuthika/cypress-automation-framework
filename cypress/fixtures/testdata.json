@@ -1,0 +1,37 @@
+[{
+    "status":"yes",
+  "email": "joe_blogs@webdriveruni.com",
+  "first_name":"Joe",
+  "last_name":"blogs",
+  "comments":"exampletest",
+  "fname":"mouni",
+  "lname":"teja"
+},
+{
+  "status":"no",
+  "email": "jhon_blogs@webdriveruni.com",
+  "first_name":"jhon",
+  "last_name":"blogs",
+  "comments":"exampletest",
+  "fname":"janaki",
+  "lname":"priya"
+},
+{
+  "status":"yes",
+  "email": "jk_blogs@webdriveruni.com",
+  "first_name":"Jk",
+  "last_name":"mouni",
+  "comments":"exampletest",
+  "fname":"jan",
+  "lname":"priya1"
+},
+{
+  "status":"no",
+  "email": "jk_blogs@webdriveruni.com",
+  "first_name":"Janu",
+  "last_name":"janaki",
+  "comments":"exampletest",
+  "fname":"janaki",
+  "lname":"priya2"
+}
+]

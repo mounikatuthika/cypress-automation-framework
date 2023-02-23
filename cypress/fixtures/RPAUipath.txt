@@ -1,0 +1,108 @@
+uipath
+what is uipath?
+UiPath is a robotic process automation tool which is used for windows desktop automation it is used to automate repetitive/redundant tasks with the help of drag and drop functionality and eliminates human intervention.
+ 
+Uipath Components
+------------------
+1.UiPath Studio---->This is mainly used to implement process(whatever manual process open app login to app etc)
+2.UiPath Robot------>It is used to excute process in studio
+3.UiPath Orchestrator--->This is central repository of the BOT(There is a sheduler available in orchestratoe we can trigger bot in multiple machines at a time or different schedule time)
+4.Ui Explorer--->with these s/w identifies ui elements based on selector
+
+Process-->linear work flow can use for any simple business process executes activities one by one
+Transactional process (flow chart)--->it is non linear workflow it supports complex business process
+Ui path editions
+----------------
+4 editions
+============
+Community cloud
+Studio
+Enterprise cloud
+Enterprise server
+
+Community cloud
+---------------
+This version is generally used by small teams or individuals to practice automating tasks  on UiPath.
+ 
+Features
+---------
+Free
+2Studio liecence
+3 Automation capacity
+No insights
+2 Studiox Licenses
+No user management support
+1 Orchestrator licencence
+2 Attended+1 Attended robots
+30 Mega pixcels/min ai computer vision
+99.5% +Availability
+No Additional Robots
+Online activation
+
+Studio
+------
+The Studio path is for individuals who want to use Uiath on an enterprice level.
+Features
+-----------
+Free for 60 days
+1 Sudio liecence
+No Automation capacity
+No insights
+1 Studiox Licenses
+No user management support
+No Orchestrator licencence
+1 Attended robots
+NO ai computer vision
+No Availability
+No Additional Robots
+Online  and offline
+
+Enterprice cloud
+-----------------
+This version/edition of UiPath is a clud bassed version of the entire RPA platform which consists of Studio ,Robots,and orchestrator
+
+Features
+---------
+Free for 60 days
+2 Sudio liecence
+Scale from UiPath Enterprice cloud
+No insights
+2 Studiox Licenses
+Centerlised user management support
+1 Orchestrator licencence
+2 Attended+1 Attended robots
+240 Mega pixcels/min ai computer vision
+99.5% +Availability ui path support
+Unlimited
+Online activation
+
+Enterprise Server
+-----------------
+This edition provided by UiPath is an on premise version of the entire enterprise automation platform consisting of Studio,Robots,and Orchestrator.
+
+Features
+---------
+Free for 60 days
+10 Sudio liecence
+Scale with your infrastructure
+1 insights license
+10 Studiox Licenses
+centralised user management support
+1 Orchestrator licencence
+10 Attended+10 un Attended robots
+ifrastructure dependent
+high Availability architecture
+unlimited
+Online activation and offline
+
+UiPath architecture
+-------------------
+A vsual designer which lets you build automation workflows with pre built activites
+
+
+uipath studio ,uipath robot,uipath orchestrator
+-----------------------------------------------
+uipath studio is place where u create your work flows
+Ui path robots are entities that execute your work flow
+orchestrator is a platform or environment where u can upload project  and automatically that project will execute in specific environ ment in various machines
+s
